@@ -6,6 +6,8 @@ xed is a small and lightweight text editor.
 xed supports most standard editing features, plus several not found in your
 average text editor (plugins being the most notable of these).
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/xed&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 Although new features are always under development, currently xed has:
 
     * Complete support for UTF-8 text
